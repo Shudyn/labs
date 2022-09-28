@@ -164,7 +164,7 @@ public class Main {
         break;
         
       case 10:
-        int[] numbers10 = {15,10,51, 6, 5,3, 10,-34,0,32,56, 12,24, 52};
+        int[] numbers10 = {15,10,51, 6, 5,3, 10,-34,0,32,56, 12,0, 52};
         int[] newnumbers10 = new int[numbers10.length];
         int zeroscount = 0;
         for (int i = 0; i < numbers10.length; i++){
