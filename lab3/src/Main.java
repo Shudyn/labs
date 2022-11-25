@@ -6,12 +6,12 @@ public class Main {
     
     public static void main(String[] args){
         System.out.println("isPalindrome(123321)");
-        System.out.println(isPalindrome("123321"));   
+        System.out.println(isPalindrome("1233212"));   
 
         System.out.println("removeRepeats(abcaaadcdcdcdcdcdcde)");
         System.out.println(removeRepeats("abcaaadcdcdcdcdcdcde"));
         
-        System.out.println("checkAnagram(abcabc, bacbac)");
+        System.out.println("checkAnagram(abcabc, bacbacc)");
         System.out.println(checkAnagram("abcabc", "bacbac"));
 
         System.out.println("compareLexographic(Orange, Orange)");
